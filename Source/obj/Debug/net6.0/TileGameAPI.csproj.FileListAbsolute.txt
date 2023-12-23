@@ -1,0 +1,5 @@
+C:\Users\LeorGoldberg\Documents\Projects\8TileGameC#\TileGameAPI\Source\obj\Debug\net6.0\TileGameAPI.csproj.AssemblyReference.cache
+C:\Users\LeorGoldberg\Documents\Projects\8TileGameC#\TileGameAPI\Source\obj\Debug\net6.0\TileGameAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LeorGoldberg\Documents\Projects\8TileGameC#\TileGameAPI\Source\obj\Debug\net6.0\TileGameAPI.AssemblyInfoInputs.cache
+C:\Users\LeorGoldberg\Documents\Projects\8TileGameC#\TileGameAPI\Source\obj\Debug\net6.0\TileGameAPI.AssemblyInfo.cs
+C:\Users\LeorGoldberg\Documents\Projects\8TileGameC#\TileGameAPI\Source\obj\Debug\net6.0\TileGameAPI.csproj.CoreCompileInputs.cache
